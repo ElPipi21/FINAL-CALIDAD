@@ -1,0 +1,95 @@
+﻿@model IEnumerable<CapaDominio.Entidades.Producto>
+
+@{
+    ViewBag.Title = "Lista de productos";
+}
+
+@*<head>
+    
+    <link rel="stylesheet" href="~/Fondo/Fondo.css" />
+</head>*@
+    @*<h1><span class="badge badge-success">BIENVENIDOS AL MEJOR RESTAURANTE DEL PERÚ</span></h1>*@
+
+@*<body>*@
+ 
+    <div class="container">
+        <br />
+        @{ 
+            if(ViewBag.error != null)
+            {
+                <div class="alert alert-danger">@ViewBag.error</div>
+            }
+        }
+        <div class="row">
+            @foreach (var producto in Model)
+            {
+                <form method="post" action="/Carrito/AgregarProductosACarrito" class="col-md-4 pt-3 pb-3">
+                    <div class="">
+                        <div class="card">
+                            <input value="@Html.DisplayFor(modelproducto => producto.IdProducto)" type="hidden" name="IdProducto" />
+                            <input value="@Html.DisplayFor(modelproducto => producto.Nombre)" type="hidden" name="Nombre" />
+                            <input value="@Html.DisplayFor(modelproducto => producto.Descripcion)" type="hidden" name="Descripcion" />
+                            <input value="@Html.DisplayFor(modelproducto => producto.Precio)" type="hidden" name="Precio" />
+                            <input value="@Html.DisplayFor(modelproducto => producto.Imagen)" type="hidden" name="Imagen" />
+
+                            <img class="card-img-top img-responsive rounded" name="Imagen" src="@Html.DisplayFor(modelproducto => producto.Imagen)" width="219" height="200" alt="Card image cap">
+                            <div class="card-body">
+                                <h4 class="card-title" name="Nombre">@Html.DisplayFor(modelproducto => producto.Nombre)</h4>
+                                <span class="badge badge-danger" name="Precio">Precio: @Html.DisplayFor(modelproducto => producto.Precio) soles</span>
+                                <br />
+                                <span class="badge badge-primary" name="Categoria">Categoria: @Html.DisplayFor(modelproducto => producto.Categoria.Nombre)</span>
+                                <br />
+                                @{
+                                    String badge = producto.EstadoVerificaStock();
+                                    if (badge == "success")
+                                    {
+                                        <span class="badge badge-success">Stock: @Html.DisplayFor(modelproducto => producto.Stock) </span>
+                                    }
+                                    else
+                                    {
+                                        if (badge == "warning")
+                                        {
+                                            <span class="badge badge-warning">Stock: @Html.DisplayFor(modelproducto => producto.Stock) </span>
+
+                                        }
+                                        else
+                                        {
+                                            if (badge == "danger")
+                                            {
+                                                <span class="badge badge-danger">Stock: @Html.DisplayFor(modelproducto => producto.Stock) </span>
+
+                                            }
+
+                                        }
+                                    }
+                                }
+
+                                <p class="card-text" name="Descripcion">@Html.DisplayFor(modelproducto => producto.Descripcion)</p>
+                                <div class="container row">
+                                    <div class="col-md-6">
+                                        <label>Cantidad a comprar:</label>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <input class="form-control" type="number" value="1" placeholder="Cantidad" name="Cantidad" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card-footer text-center">
+                                @{
+                                    if (producto.DesabilitaOpcionAgregarACarrito())
+                                    {
+                                        <button name="btnAgrega" disabled type="submit" class="btn btn-success">Agregar al carrito</button>
+                                    }
+                                    else
+                                    {
+                                        <button name="btnAgrega" type="submit" class="btn btn-success">Agregar al carrito</button>
+                                    }
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            }
+        </div>
+    </div>
+@*</body>*@

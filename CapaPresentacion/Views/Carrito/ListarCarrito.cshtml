@@ -1,0 +1,66 @@
+﻿@using CapaDominio.Entidades;
+@{
+    ViewBag.Title = "Carrito de compras";
+}
+
+
+@{
+    if (Session["carrito"] == null)
+    {
+        <div class="container mt-3">
+            <h1>Deleitate con los mejores platillos, tu carrito está vacio!</h1>
+        </div>
+        return;
+    }
+    List<LineaDePedido> listaProductos = (List<LineaDePedido>)Session["carrito"];
+    int i = 0;
+    <br />
+    <table class="table table-bordered" width="100%" cellspacing="0">
+        <thead>
+            <tr>
+                <th>N°</th>
+                <th>Imagen</th>
+                <th>Producto</th>
+                <th>Descripción</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+                <th>Importe</th>
+                <th>Acción</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var lista in listaProductos)
+            {
+                i++;
+                Double importe = lista.calcularSubTotal();
+                <tr>
+                    <td>@i</td>
+                    <td>
+                        <img style="width: 85px; height: 90px"
+                             src="@lista.Producto.Imagen" />
+                    </td>
+                    <td>@lista.Producto.Nombre</td>
+                    <td>@lista.Producto.Descripcion</td>
+                    <td>@lista.CantidadVendida</td>
+                    <td>@lista.PrecioDeVenta</td>
+                    <td>@importe</td>
+                    <td><a href="/carrito/quitarProducto">@*Quitar*@</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <form method="post" action="/Pedido/GuardarPedido">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <button class="btn btn-default btn-block">
+                        <a href="/Producto/ListarProductos" style="text-decoration: none;">Cancelar</a>
+                    </button>
+                </div>
+                <div class="col-md-6">
+                    <button type="submit" class="btn btn-success btn-block">Guardar pedido</button>
+                </div>
+            </div>
+        </div>
+    </form>
+}

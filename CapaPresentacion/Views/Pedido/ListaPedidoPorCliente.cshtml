@@ -1,0 +1,51 @@
+﻿@model IEnumerable<CapaDominio.Entidades.Pedido>
+
+@{
+    ViewBag.Title = "ListaPedidoPorCliente";
+}
+
+<br />
+<h2>Mis compras</h2>
+<div class="alert alert-success">
+    @ViewBag.mensaje
+</div>
+<p>
+    @Html.ActionLink("Nuevo Pedido", "ListarProductos", "Producto")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            #
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Fecha)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+
+@{ 
+    int i = 0;
+}
+@foreach (var item in Model) {
+    i = i + 1;
+    <tr>
+        <td>
+            @i
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Fecha)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.ActionLink("Pagar", "PagarPedido", new {  id=item.IdPedido }) |
+            @Html.ActionLink("Detalle", "ListarDetallePedido", new { id=item.IdPedido })
+        </td>
+    </tr>
+}
+
+</table>

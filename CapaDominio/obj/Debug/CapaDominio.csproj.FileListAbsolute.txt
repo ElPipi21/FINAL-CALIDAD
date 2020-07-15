@@ -1,0 +1,23 @@
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaDominio\obj\Debug\CapaDominio.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\bin\Debug\CapaDominio.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\bin\Debug\CapaDominio.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\obj\Debug\CapaDominio.csprojAssemblyReference.cache
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\obj\Debug\CapaDominio.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\obj\Debug\CapaDominio.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\bin\Debug\Geolocation.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\bin\Debug\Geolocation.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\bin\Debug\Geolocation.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\bin\Debug\Geolocation.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\obj\Debug\CapaDominio.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\obj\Debug\CapaDominio.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\obj\Debug\CapaDominio.csproj.CopyComplete
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\obj\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaDominio\obj\Debug\CapaDominio.pdb

@@ -1,0 +1,143 @@
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaAplicacion.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Restaurante_Proyecto\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaAplicacion.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\MySql.Data.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Google.Protobuf.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Zstandard.Net.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Renci.SshNet.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Buffers.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Memory.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\MySql.Data.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Google.Protobuf.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\Renci.SshNet.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Buffers.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Memory.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\bin\Debug\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CopyComplete
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Desktop\Probando\Proyecto_Restaurante\CapaAplicacion\obj\Debug\CapaAplicacion.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaDominio.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\MySql.Data.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Google.Protobuf.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Zstandard.Net.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\BouncyCastle.Crypto.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Ubiety.Dns.Core.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Renci.SshNet.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Buffers.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Memory.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Numerics.Vectors.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaDominio.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.dll.config
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\MySql.Data.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Google.Protobuf.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Renci.SshNet.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Buffers.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Memory.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Numerics.Vectors.xml
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.csprojAssemblyReference.cache
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CopyComplete
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.dll.config
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Geolocation.dll
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\Geolocation.pdb
+E:\JAIR\Lawcodev\Visual Studio\Version 2.0\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.dll.config
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaAplicacion.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaDominio.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Geolocation.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\MySql.Data.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Google.Protobuf.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Zstandard.Net.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Ubiety.Dns.Core.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Renci.SshNet.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Buffers.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Memory.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Numerics.Vectors.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaDominio.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\CapaPersistencia.dll.config
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Geolocation.pdb
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\MySql.Data.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Google.Protobuf.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\Renci.SshNet.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Buffers.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Compression.LZ4.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\K4os.Hash.xxHash.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Memory.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Numerics.Vectors.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.csprojAssemblyReference.cache
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CoreCompileInputs.cache
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.csproj.CopyComplete
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.dll
+D:\Joshe Villacorta\Downloads\FINALX2_CALIDAD\Version 2.0\CapaAplicacion\obj\Debug\CapaAplicacion.pdb

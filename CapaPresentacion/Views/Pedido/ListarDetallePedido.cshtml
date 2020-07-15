@@ -1,0 +1,42 @@
+﻿@model CapaDominio.Entidades.Pedido
+
+@{
+    ViewBag.Title = "ListarDetallePedido";
+}
+
+<br />
+@{ 
+    int i = 0;
+}
+<div class="container">
+    <h2>Detalle del pedido</h2>
+    <hr />
+    <p>
+        Fecha: @Html.DisplayFor(model => model.Fecha)
+    </p>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Producto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+            </tr>
+        </thead>
+        @foreach(var itemLista in Model.ListaLineasDePedido)
+        {
+            i = i + 1;
+            <tbody>
+                <tr>
+                    <td>@i</td>
+                    <td>@itemLista.Producto.Nombre</td>
+                    <td>@itemLista.CantidadVendida</td>
+                    <td>@itemLista.PrecioDeVenta</td>
+                </tr>
+            </tbody>
+        }
+    </table>
+    <p>
+        @Html.ActionLink("Volver", "ListaPedidoPorCliente")
+    </p>
+</div>
